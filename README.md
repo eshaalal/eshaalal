@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Esha!;I'm+a+learning+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE4M3pjcWp5djVqbXllZmNmcGtkM21uYXlmN2x6NTA5MGltaDJrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
 
@@ -51,3 +51,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaalal&show_icons=true&locale=en&layout=compact" alt="eshaalal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaalal&show_icons=true&locale=en" alt="eshaalal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaalal&" alt="eshaalal" /></p>
