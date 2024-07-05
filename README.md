@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Esha!;I'm+a+learning+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE4M3pjcWp5djVqbXllZmNmcGtkM21uYXlmN2x6NTA5MGltaDJrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
 
 
-##  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE4M3pjcWp5djVqbXllZmNmcGtkM21uYXlmN2x6NTA5MGltaDJrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="30px" height="30px"> A little more about me...  
+##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px"> A little more about me... 
 
 ```javascript
 const Esha = {
