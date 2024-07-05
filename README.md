@@ -1,6 +1,8 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Esha Lal</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ankita!;Hi,+I'm+a+passionate+web+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+
 <img align="right" alt ="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
