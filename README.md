@@ -19,7 +19,7 @@ const Esha = {
 ```
 
 
-## Connect with me <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FqOHY3MGhzbXk3NTFtZGczZ3hscHFqNDFtdXphb2RnMWRxMmExNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cpAGF6uxLw93uuQNNJ/giphy.gif" width = 32px height="32px">
+## Connect with me <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNqdjdja25sM2hsd3d4cGxtYTN0Y3ByN242aWFwcXZiZ3NrbmNuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/O4FvfcdZ5tipRWZtki/giphy.gif" width = 32px height="32px">
 
 <p align="left">
 <a href="https://twitter.com/eshatwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshatwt" height="30" width="40" /></a>
@@ -52,6 +52,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaalal&show_icons=true&locale=en&layout=compact" alt="eshaalal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaalal&show_icons=true&locale=en" alt="eshaalal" /></p>
