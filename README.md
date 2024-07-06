@@ -7,7 +7,7 @@
 
 
 ##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px"> A little more about me... 
-
+<br>
 ```javascript
 const Esha = {
   pronouns: "she" | "her",
