@@ -42,8 +42,8 @@ const Esha = {
 <br>
 
 
-### Fun fact : I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
+## Fun fact : I once solved the world's oldest question with a single line of JavaScript
+
 
 ```javascript
 // Which came first: the chicken or the egg?
