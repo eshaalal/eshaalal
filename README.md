@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Esha!;I'm+a+learning+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU3Zm9lYzhwMGE5d3BlYWdjejBpaHE3end3NmNiMGYzYWZjem1vMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCr7otd5HxJfh8TfJq/giphy.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
 
