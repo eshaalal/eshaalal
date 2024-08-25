@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
 
 
-##  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px"> A little more about me... 
+## A little more about me... 
 
 ```javascript
 const Esha = {
@@ -18,7 +18,7 @@ const Esha = {
 }
 ```
 
-## Profiles <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNqdjdja25sM2hsd3d4cGxtYTN0Y3ByN242aWFwcXZiZ3NrbmNuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/O4FvfcdZ5tipRWZtki/giphy.gif" width = 32px height="32px">
+## Profiles 
 <br>
 <p align="left">
 <a href="https://twitter.com/eshatwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshatwt" height="30" width="40" /></a>
@@ -27,7 +27,7 @@ const Esha = {
 
 </p>
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height="32px">
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <br>
 <p align="center">
