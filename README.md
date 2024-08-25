@@ -3,8 +3,8 @@
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZyeTdjNnk2ejlqbjF1cmtydzE0b3cwbXVubjY3bmU3eXc3ZzdybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBSQu6cuMoBZMC6daR/giphy.gif">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
+ -->
 
 ## A little more about me... 
 
