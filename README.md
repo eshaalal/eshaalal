@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaalal&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalal" /> </p>
  -->
 
-## A little more about me... 
+## A little more about me.... 
 
 ```javascript
 const Esha = {
