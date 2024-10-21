@@ -63,7 +63,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 <br>
 
-## Hacktoberfest'11 
+## Hacktoberfest
 <br>
 <a href="https://holopin.io/@eshaalal">
   <img src="https://holopin.me/eshaalal" alt="@esha's holopin board" />
