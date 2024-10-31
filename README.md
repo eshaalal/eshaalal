@@ -71,59 +71,48 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <br>
 
 ## GSSOC(24) Badges 🪶
-<div class="badge-container">
-  <a href="https://gssoc.girlscript.tech/leaderboard" class="badge-box">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  </a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" class="badge-box">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  </a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" class="badge-box">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  </a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" class="badge-box">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  </a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" class="badge-box">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  </a>
-  <a href="https://gssoc.girlscript.tech/leaderboard" class="badge-box">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  </a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://gssoc.girlscript.tech/leaderboard">
+          <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+          <br />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://gssoc.girlscript.tech/leaderboard">
+          <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+          <br />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://gssoc.girlscript.tech/leaderboard">
+          <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+          <br />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://gssoc.girlscript.tech/leaderboard">
+          <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+          <br />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://gssoc.girlscript.tech/leaderboard">
+          <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+          <br />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://gssoc.girlscript.tech/leaderboard">
+          <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+          <br />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<style>
-.badge-container {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: 20px;
-}
-
-.badge-box {
-  border: 2px solid #e5e5e5;
-  border-radius: 8px;
-  padding: 15px;
-  background-color: white;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  transition: box-shadow 0.3s ease;
-  text-decoration: none;
-}
-
-.badge-box:hover {
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-}
-
-.badge-box img {
-  display: block;
-  width: 100px;
-  height: 100px;
-  object-fit: contain;
-}
-</style>
-
 
 ## Github Stats
 <br>
