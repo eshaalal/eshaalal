@@ -116,7 +116,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ## Github Stats
 <br>
-<table border="0">
+<table>
   <tr>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eshaalal&show_icons=true&locale=en" alt="eshaalal" />
