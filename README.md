@@ -71,6 +71,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <br>
 
 ## GSSOC(24) Badges 🪶
+<br>
 <div align="center">
   <table>
     <tr>
