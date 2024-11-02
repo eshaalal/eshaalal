@@ -27,6 +27,19 @@ const Esha = {
 
 </p>
 
+## Github Stats
+<br>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eshaalal&show_icons=true&locale=en" alt="eshaalal" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaalal&" alt="eshaalal" />
+    </td>
+  </tr>
+</table>
+
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <br>
@@ -115,15 +128,3 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   </table>
 </div>
 
-## Github Stats
-<br>
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eshaalal&show_icons=true&locale=en" alt="eshaalal" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaalal&" alt="eshaalal" />
-    </td>
-  </tr>
-</table>
