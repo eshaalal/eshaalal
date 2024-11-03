@@ -95,25 +95,25 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
         </a>
       </td>
       <td align="center">
-        <a href="https://gssoc.girlscript.tech/leaderboard">
+        <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=eshaalal">
           <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
           <br />
         </a>
       </td>
       <td align="center">
-        <a href="https://gssoc.girlscript.tech/leaderboard">
+        <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=eshaalal">
           <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
           <br />
         </a>
       </td>
       <td align="center">
-        <a href="https://gssoc.girlscript.tech/leaderboard">
+        <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=eshaalal">
           <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
           <br />
         </a>
       </td>
       <td align="center">
-        <a href="https://gssoc.girlscript.tech/leaderboard">
+        <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=eshaalal">
           <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
           <br />
         </a>
