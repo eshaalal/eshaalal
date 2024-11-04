@@ -130,6 +130,12 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
           <br />
         </a>
       </td>
+       <td align="center">
+        <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=eshaalal">
+          <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" />
+          <br />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
