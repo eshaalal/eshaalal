@@ -34,9 +34,9 @@ const Esha = {
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eshaalal&show_icons=true&locale=en" alt="eshaalal" />
     </td>
-    <td>
+<!--     <td>
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaalal&" alt="eshaalal" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
