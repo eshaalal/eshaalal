@@ -11,7 +11,7 @@
 ```javascript
 const Esha = {
   pronouns: "she" | "her",
-  code: ["C++", "Java", "JavaScript"],
+  code: ["C++", "Java", "JavaScript","TypeScript"],
   development: ["HTML", "CSS", "Node.js", "MongoDB", "React", "PHP", "Tailwind CSS", "Bootstrap"],
   tools: ["VSCode", "Git", "GitHub", "Vercel", "postman"],
   architecture: ["microservices", "event-driven", "design system pattern"]
