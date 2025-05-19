@@ -14,7 +14,6 @@ const Esha = {
   code: ["C++", "Java", "JavaScript","TypeScript"],
   development: ["HTML", "CSS", "Node.js", "MongoDB", "React", "PHP", "Tailwind CSS", "Bootstrap","Laravel"],
   tools: ["VSCode", "Git", "GitHub", "Vercel", "postman"]
-  
 }
 ```
 
